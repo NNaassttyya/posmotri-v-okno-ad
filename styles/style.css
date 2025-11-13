@@ -115,3 +115,39 @@ ol {
 .content__video-card-description-container {
     flex-grow: 1;
 }
+
+.search-form__fieldset-title {
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.title {
+  color: white;
+  font-family: Oswald, sans-serif;
+  font-weight: 700;
+  font-size: 75px;
+  line-height: 70.5px;
+  text-transform: uppercase;
+  margin-bottom: 26px;
+}
+
+.content__accent {
+  color: #545050;
+}
+
+.content__card-link {
+  text-decoration: none;
+  color: white;
+  font-family: Oswald, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+.content__video-card-description {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 18px;
+    line-height: 0.9;
+    weight: 200;
+
+}
